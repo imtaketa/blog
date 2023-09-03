@@ -70,7 +70,7 @@ languageName = "English"
 [params]
   # site default theme ["auto", "light", "dark"]
   # 网站默认主题 ["auto", "light", "dark"]
-  defaultTheme = "auto"
+  defaultTheme = "dark"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
   gitRepo = ""
@@ -129,7 +129,7 @@ languageName = "English"
     custom = ""
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
-    hugo = true
+    hugo = false 
     # whether to show copyright info
     # 是否显示版权信息
     copyright = true
@@ -138,7 +138,7 @@ languageName = "English"
     author = true
     # site creation time
     # 网站创立年份
-    since = 2022
+    since = 2023 
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
