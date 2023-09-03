@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - &gt;_ GoForGrowth()</title>
+        <link>https://imtaketa.github.io/blog/tags/</link>
+        <description>Tags - Tag - &gt;_ GoForGrowth()</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 02 Sep 2023 11:24:32 &#43;0300</lastBuildDate><atom:link href="https://imtaketa.github.io/blog/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>test_tag</title>
+    <link>https://imtaketa.github.io/blog/tags/test_tag/</link>
+    <pubDate>Sat, 02 Sep 2023 11:24:32 &#43;0300</pubDate>
+    <author>Savitskyi Andriy</author>
+    <guid>https://imtaketa.github.io/blog/tags/test_tag/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

@@ -1,7 +1,10 @@
 +++
 title = 'First_post'
 date = 2023-09-02T11:24:32+03:00
-draft = true
+draft = false
+tags = ["test_tag"]
+categories = ["test_category"] 
+featuredImage = "/blog/images/woman-codes.jpg"
 +++
 
 ## Subtiltle one
