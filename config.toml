@@ -257,12 +257,12 @@ languageName = "English"
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/imtaketa"
+    GitHub = "imtaketa"
     Linkedin = ""
     Twitter = ""
     Instagram = ""
     Facebook = ""
-    Telegram = "https://t.me/asavitskyi"
+    Telegram = "asavitskyi"
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
