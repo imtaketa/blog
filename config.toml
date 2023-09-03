@@ -331,7 +331,7 @@ languageName = "English"
     RootMe= ""
     Email = "savitskyi.andriy@gmail.com"
     Phone = ""
-    RSS = "https://imtaketa.github.io/blog/posts/index.xml"
+    RSS = true 
 
   # Page global config
   # 文章页面全局配置
